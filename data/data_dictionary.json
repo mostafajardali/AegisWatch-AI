@@ -1,0 +1,14 @@
+{
+  "timestamp": "Date et heure de l evenement",
+  "source_ip": "Adresse IP source",
+  "username": "Utilisateur concerne",
+  "action": "Action observee dans le log",
+  "status": "success ou failed",
+  "endpoint": "URL ou ressource cible",
+  "user_agent": "Client ou outil utilise",
+  "bytes_sent": "Volume de donnees envoye/telecharge",
+  "country": "Pays estime de la source",
+  "label": "normal ou attack, utile pour tester le modele",
+  "attack_type": "Type d attaque simulee",
+  "notes": "Commentaire explicatif"
+}

@@ -1,0 +1,466 @@
+timestamp,source_ip,username,action,status,endpoint,user_agent,bytes_sent,country,label,attack_type,notes
+2026-06-08 08:00:27,192.168.1.26,sara,api_request,success,/api/v1/users,Chrome Windows,3032,Lebanon,normal,none,normal business activity
+2026-06-08 08:05:35,192.168.1.30,ali,view_file,success,/settings/password,Safari iPhone,1713,Lebanon,normal,none,normal business activity
+2026-06-08 08:05:57,192.168.1.42,john,login,success,/download/db_backup.zip,Chrome Windows,2440,Lebanon,normal,none,normal business activity
+2026-06-08 08:09:07,192.168.1.29,john,view_file,success,/dashboard,Safari iPhone,1124,Lebanon,normal,none,normal business activity
+2026-06-08 08:11:16,192.168.1.18,sara,view_file,success,/login,Chrome Windows,3241,Lebanon,normal,none,normal business activity
+2026-06-08 08:16:00,192.168.1.62,admin,login,success,/api/v1/users,Firefox Linux,220,Lebanon,normal,none,normal business activity
+2026-06-08 08:16:13,192.168.1.60,nour,api_request,success,/files/report.pdf,Safari iPhone,2797,Lebanon,normal,none,normal business activity
+2026-06-08 08:17:05,192.168.1.61,sara,download_file,success,/admin,Safari iPhone,11568,Lebanon,normal,none,normal business activity
+2026-06-08 08:19:07,192.168.1.49,ali,logout,success,/logout,Chrome Windows,4061,Lebanon,normal,none,normal business activity
+2026-06-08 08:19:28,192.168.1.29,sara,view_file,success,/settings/password,Chrome Windows,1211,Lebanon,normal,none,normal business activity
+2026-06-08 08:20:03,192.168.1.63,it.support,view_file,success,/api/v1/users,Safari iPhone,1334,Lebanon,normal,none,normal business activity
+2026-06-08 08:22:09,192.168.1.28,nour,upload_file,success,/admin,Chrome Windows,3140,Lebanon,normal,none,normal business activity
+2026-06-08 08:22:25,192.168.1.10,sara,upload_file,success,/login,Safari iPhone,2902,Lebanon,normal,none,normal business activity
+2026-06-08 08:25:11,192.168.1.52,it.support,upload_file,success,/files/report.pdf,Firefox Linux,1384,Lebanon,normal,none,normal business activity
+2026-06-08 08:26:41,192.168.1.47,mohamad,logout,success,/download/db_backup.zip,Chrome Windows,1635,Lebanon,normal,none,normal business activity
+2026-06-08 08:30:05,192.168.1.74,sara,view_file,success,/download/db_backup.zip,Chrome Android,3759,Lebanon,normal,none,normal business activity
+2026-06-08 08:31:25,192.168.1.41,maria,login,success,/dashboard,Chrome Windows,177,Lebanon,normal,none,normal business activity
+2026-06-08 08:35:39,192.168.1.41,nour,download_file,success,/settings/password,Chrome Windows,3937,Lebanon,normal,none,normal business activity
+2026-06-08 08:36:35,192.168.1.63,maria,login,success,/admin,Firefox Linux,718,Lebanon,normal,none,normal business activity
+2026-06-08 08:38:00,192.168.1.23,sara,api_request,success,/settings/password,Safari iPhone,1179,Lebanon,normal,none,normal business activity
+2026-06-08 08:39:06,192.168.1.54,nour,download_file,success,/logout,Safari iPhone,11946,Lebanon,normal,none,normal business activity
+2026-06-08 08:39:18,192.168.1.70,ali,download_file,success,/settings/password,Safari iPhone,12581,Lebanon,normal,none,normal business activity
+2026-06-08 08:40:19,192.168.1.14,maria,view_file,success,/logout,Firefox Linux,2756,Lebanon,normal,none,normal business activity
+2026-06-08 08:40:56,192.168.1.51,mohamad,view_file,failed,/files/report.pdf,Chrome Windows,2287,Lebanon,normal,none,normal business activity
+2026-06-08 08:41:48,192.168.1.41,john,login,failed,/dashboard,Chrome Android,1114,Lebanon,normal,none,normal business activity
+2026-06-08 08:42:19,192.168.1.15,mohamad,api_request,success,/files/report.pdf,Chrome Windows,2977,Lebanon,normal,none,normal business activity
+2026-06-08 08:43:18,192.168.1.20,ali,view_file,success,/api/v1/users,Safari iPhone,1832,Lebanon,normal,none,normal business activity
+2026-06-08 08:45:22,192.168.1.32,admin,api_request,success,/settings/password,Chrome Android,1184,Lebanon,normal,none,normal business activity
+2026-06-08 08:46:25,192.168.1.34,john,view_file,success,/download/db_backup.zip,Safari iPhone,2371,Lebanon,normal,none,normal business activity
+2026-06-08 08:46:42,192.168.1.47,sara,api_request,success,/logout,Safari iPhone,2357,Lebanon,normal,none,normal business activity
+2026-06-08 08:48:22,192.168.1.58,ali,upload_file,success,/download/db_backup.zip,Safari iPhone,1302,Lebanon,normal,none,normal business activity
+2026-06-08 08:48:55,192.168.1.44,nour,login,success,/download/db_backup.zip,Safari iPhone,3247,Lebanon,normal,none,normal business activity
+2026-06-08 08:54:06,192.168.1.34,sara,view_file,success,/api/v1/users,Firefox Linux,2516,Lebanon,normal,none,normal business activity
+2026-06-08 08:55:12,192.168.1.73,admin,download_file,success,/files/report.pdf,Firefox Linux,11498,Lebanon,normal,none,normal business activity
+2026-06-08 08:56:19,192.168.1.32,nour,login,success,/login,Chrome Android,4146,Lebanon,normal,none,normal business activity
+2026-06-08 08:57:18,192.168.1.65,mohamad,login,success,/dashboard,Chrome Android,1514,Lebanon,normal,none,normal business activity
+2026-06-08 08:57:48,192.168.1.38,ali,view_file,success,/download/db_backup.zip,Firefox Linux,1503,Lebanon,normal,none,normal business activity
+2026-06-08 08:58:03,192.168.1.74,nour,api_request,success,/login,Chrome Windows,1602,Lebanon,normal,none,normal business activity
+2026-06-08 08:59:35,192.168.1.63,mohamad,view_file,success,/files/report.pdf,Firefox Linux,1745,Lebanon,normal,none,normal business activity
+2026-06-08 09:00:17,192.168.1.26,maria,download_file,success,/dashboard,Firefox Linux,6555,Lebanon,normal,none,normal business activity
+2026-06-08 09:01:09,192.168.1.21,it.support,login,success,/download/db_backup.zip,Firefox Linux,3835,Lebanon,normal,none,normal business activity
+2026-06-08 09:02:30,192.168.1.64,maria,download_file,success,/settings/password,Chrome Windows,3823,Lebanon,normal,none,normal business activity
+2026-06-08 09:03:53,192.168.1.38,maria,login,success,/admin,Chrome Windows,2200,Lebanon,normal,none,normal business activity
+2026-06-08 09:04:45,192.168.1.68,maria,login,success,/files/report.pdf,Chrome Windows,2665,Lebanon,normal,none,normal business activity
+2026-06-08 09:05:00,192.168.1.14,sara,login,success,/login,Safari iPhone,220,Lebanon,normal,none,normal login
+2026-06-08 09:05:34,192.168.1.18,ali,api_request,success,/api/v1/users,Safari iPhone,1554,Lebanon,normal,none,normal business activity
+2026-06-08 09:09:00,192.168.1.15,sara,api_request,success,/download/db_backup.zip,Firefox Linux,4184,Lebanon,normal,none,normal business activity
+2026-06-08 09:10:38,192.168.1.40,john,view_file,success,/files/report.pdf,Chrome Windows,751,Lebanon,normal,none,normal business activity
+2026-06-08 09:10:48,192.168.1.26,admin,login,success,/dashboard,Firefox Linux,4402,Lebanon,normal,none,normal business activity
+2026-06-08 09:11:09,192.168.1.13,it.support,login,success,/download/db_backup.zip,Safari iPhone,3796,Lebanon,normal,none,normal business activity
+2026-06-08 09:11:42,192.168.1.50,ali,download_file,success,/api/v1/users,Firefox Linux,13426,Lebanon,normal,none,normal business activity
+2026-06-08 09:12:45,192.168.1.39,nour,login,failed,/admin,Chrome Windows,4291,Lebanon,normal,none,normal business activity
+2026-06-08 09:13:03,192.168.1.49,john,view_file,success,/api/v1/users,Safari iPhone,1098,Lebanon,normal,none,normal business activity
+2026-06-08 09:16:01,192.168.1.35,ali,api_request,success,/dashboard,Chrome Windows,2796,Lebanon,normal,none,normal business activity
+2026-06-08 09:17:37,192.168.1.41,it.support,login,success,/logout,Chrome Windows,2924,Lebanon,normal,none,normal business activity
+2026-06-08 09:19:15,192.168.1.50,sara,login,success,/logout,Firefox Linux,3738,Lebanon,normal,none,normal business activity
+2026-06-08 09:20:00,185.220.101.12,sara,login,success,/login,UnknownBot/1.0,220,Netherlands,attack,impossible_travel,same user login from far country shortly after Lebanon
+2026-06-08 09:20:25,192.168.1.14,ali,view_file,success,/dashboard,Chrome Windows,3758,Lebanon,normal,none,normal business activity
+2026-06-08 09:20:27,192.168.1.33,nour,view_file,success,/logout,Firefox Linux,2501,Lebanon,normal,none,normal business activity
+2026-06-08 09:20:39,192.168.1.40,maria,view_file,success,/files/report.pdf,Safari iPhone,2160,Lebanon,normal,none,normal business activity
+2026-06-08 09:22:43,192.168.1.79,ali,login,success,/logout,Chrome Android,4481,Lebanon,normal,none,normal business activity
+2026-06-08 09:23:23,192.168.1.50,sara,api_request,success,/admin,Chrome Android,1207,Lebanon,normal,none,normal business activity
+2026-06-08 09:25:48,192.168.1.67,john,api_request,success,/download/db_backup.zip,Chrome Windows,1898,Lebanon,normal,none,normal business activity
+2026-06-08 09:26:37,192.168.1.27,john,download_file,success,/login,Safari iPhone,13353,Lebanon,normal,none,normal business activity
+2026-06-08 09:29:28,192.168.1.25,maria,upload_file,success,/admin,Safari iPhone,1439,Lebanon,normal,none,normal business activity
+2026-06-08 09:35:59,192.168.1.40,it.support,login,success,/files/report.pdf,Safari iPhone,560,Lebanon,normal,none,normal business activity
+2026-06-08 09:36:35,192.168.1.46,nour,logout,success,/dashboard,Firefox Linux,747,Lebanon,normal,none,normal business activity
+2026-06-08 09:37:00,192.168.1.19,sara,login,success,/settings/password,Chrome Windows,146,Lebanon,normal,none,normal business activity
+2026-06-08 09:40:16,192.168.1.76,sara,view_file,success,/files/report.pdf,Safari iPhone,3144,Lebanon,normal,none,normal business activity
+2026-06-08 09:40:48,192.168.1.22,nour,view_file,success,/login,Chrome Windows,2737,Lebanon,normal,none,normal business activity
+2026-06-08 09:41:40,192.168.1.68,maria,login,success,/dashboard,Safari iPhone,3819,Lebanon,normal,none,normal business activity
+2026-06-08 09:43:53,192.168.1.38,mohamad,login,success,/login,Firefox Linux,244,Lebanon,normal,none,normal business activity
+2026-06-08 09:44:05,192.168.1.55,mohamad,api_request,success,/login,Safari iPhone,4472,Lebanon,normal,none,normal business activity
+2026-06-08 09:44:06,192.168.1.48,sara,login,success,/dashboard,Chrome Android,640,Lebanon,normal,none,normal business activity
+2026-06-08 09:44:47,192.168.1.41,maria,logout,success,/settings/password,Firefox Linux,2935,Lebanon,normal,none,normal business activity
+2026-06-08 09:45:24,192.168.1.49,mohamad,login,success,/api/v1/users,Firefox Linux,3814,Lebanon,normal,none,normal business activity
+2026-06-08 09:46:36,192.168.1.29,mohamad,download_file,success,/logout,Firefox Linux,11613,Lebanon,normal,none,normal business activity
+2026-06-08 09:46:56,192.168.1.24,john,api_request,success,/dashboard,Firefox Linux,2388,Lebanon,normal,none,normal business activity
+2026-06-08 09:47:32,192.168.1.25,it.support,logout,success,/settings/password,Chrome Android,1716,Lebanon,normal,none,normal business activity
+2026-06-08 09:48:15,192.168.1.61,mohamad,view_file,success,/api/v1/users,Firefox Linux,1895,Lebanon,normal,none,normal business activity
+2026-06-08 09:48:36,192.168.1.46,maria,api_request,success,/download/db_backup.zip,Firefox Linux,3217,Lebanon,normal,none,normal business activity
+2026-06-08 09:49:08,192.168.1.60,sara,view_file,success,/admin,Safari iPhone,2822,Lebanon,normal,none,normal business activity
+2026-06-08 09:50:24,192.168.1.70,maria,login,success,/settings/password,Firefox Linux,2580,Lebanon,normal,none,normal business activity
+2026-06-08 09:52:42,192.168.1.26,maria,login,success,/files/report.pdf,Firefox Linux,209,Lebanon,normal,none,normal business activity
+2026-06-08 09:54:01,192.168.1.41,it.support,login,success,/logout,Safari iPhone,340,Lebanon,normal,none,normal business activity
+2026-06-08 09:57:43,192.168.1.44,ali,upload_file,success,/api/v1/users,Safari iPhone,1375,Lebanon,normal,none,normal business activity
+2026-06-08 10:01:08,192.168.1.60,ali,view_file,success,/admin,Chrome Android,1710,Lebanon,normal,none,normal business activity
+2026-06-08 10:03:46,192.168.1.25,sara,upload_file,success,/dashboard,Chrome Android,1852,Lebanon,normal,none,normal business activity
+2026-06-08 10:05:02,192.168.1.16,ali,login,success,/download/db_backup.zip,Safari iPhone,321,Lebanon,normal,none,normal business activity
+2026-06-08 10:07:59,192.168.1.47,mohamad,api_request,success,/admin,Chrome Android,649,Lebanon,normal,none,normal business activity
+2026-06-08 10:10:39,192.168.1.60,admin,view_file,success,/logout,Safari iPhone,1191,Lebanon,normal,none,normal business activity
+2026-06-08 10:12:00,45.83.22.10,admin,login,failed,/login,curl/7.88,179,Russia,attack,brute_force,many failed admin login attempts
+2026-06-08 10:12:18,45.83.22.10,admin,login,failed,/login,curl/7.88,97,Russia,attack,brute_force,many failed admin login attempts
+2026-06-08 10:12:36,45.83.22.10,admin,login,failed,/login,curl/7.88,110,Russia,attack,brute_force,many failed admin login attempts
+2026-06-08 10:12:54,45.83.22.10,admin,login,failed,/login,curl/7.88,103,Russia,attack,brute_force,many failed admin login attempts
+2026-06-08 10:13:12,45.83.22.10,admin,login,failed,/login,curl/7.88,143,Russia,attack,brute_force,many failed admin login attempts
+2026-06-08 10:13:15,192.168.1.50,sara,api_request,success,/admin,Firefox Linux,3788,Lebanon,normal,none,normal business activity
+2026-06-08 10:13:30,45.83.22.10,admin,login,failed,/login,curl/7.88,165,Russia,attack,brute_force,many failed admin login attempts
+2026-06-08 10:13:48,192.168.1.23,mohamad,logout,success,/api/v1/users,Safari iPhone,2110,Lebanon,normal,none,normal business activity
+2026-06-08 10:13:48,45.83.22.10,admin,login,failed,/login,curl/7.88,151,Russia,attack,brute_force,many failed admin login attempts
+2026-06-08 10:14:06,45.83.22.10,admin,login,failed,/login,curl/7.88,162,Russia,attack,brute_force,many failed admin login attempts
+2026-06-08 10:14:24,45.83.22.10,admin,login,failed,/login,curl/7.88,176,Russia,attack,brute_force,many failed admin login attempts
+2026-06-08 10:14:59,192.168.1.72,sara,login,success,/files/report.pdf,Chrome Android,2625,Lebanon,normal,none,normal business activity
+2026-06-08 10:15:00,45.83.22.10,admin,login,success,/login,curl/7.88,210,Russia,attack,brute_force,success after failed attempts
+2026-06-08 10:18:24,192.168.1.79,mohamad,view_file,success,/dashboard,Safari iPhone,891,Lebanon,normal,none,normal business activity
+2026-06-08 10:18:49,192.168.1.63,nour,view_file,success,/settings/password,Safari iPhone,3157,Lebanon,normal,none,normal business activity
+2026-06-08 10:20:09,192.168.1.22,john,view_file,success,/login,Firefox Linux,1153,Lebanon,normal,none,normal business activity
+2026-06-08 10:21:55,192.168.1.71,sara,api_request,success,/logout,Chrome Windows,2415,Lebanon,normal,none,normal business activity
+2026-06-08 10:22:50,192.168.1.36,sara,change_password,success,/api/v1/users,Chrome Android,2731,Lebanon,normal,none,normal business activity
+2026-06-08 10:24:06,192.168.1.59,john,api_request,success,/dashboard,Firefox Linux,2641,Lebanon,normal,none,normal business activity
+2026-06-08 10:26:42,192.168.1.62,admin,logout,success,/dashboard,Safari iPhone,4140,Lebanon,normal,none,normal business activity
+2026-06-08 10:26:54,192.168.1.66,nour,login,success,/admin,Firefox Linux,3216,Lebanon,normal,none,normal business activity
+2026-06-08 10:31:05,192.168.1.55,it.support,view_file,failed,/api/v1/users,Firefox Linux,1504,Lebanon,normal,none,normal business activity
+2026-06-08 10:31:15,192.168.1.42,john,login,success,/logout,Chrome Android,4127,Lebanon,normal,none,normal business activity
+2026-06-08 10:32:05,192.168.1.19,maria,download_file,success,/api/v1/users,Chrome Android,9983,Lebanon,normal,none,normal business activity
+2026-06-08 10:32:15,192.168.1.77,sara,logout,success,/download/db_backup.zip,Chrome Windows,3136,Lebanon,normal,none,normal business activity
+2026-06-08 10:33:33,192.168.1.17,maria,change_password,success,/download/db_backup.zip,Firefox Linux,1226,Lebanon,normal,none,normal business activity
+2026-06-08 10:34:00,192.168.1.13,ali,logout,success,/login,Firefox Linux,91,Lebanon,normal,none,normal business activity
+2026-06-08 10:34:48,192.168.1.22,it.support,login,success,/download/db_backup.zip,Chrome Android,579,Lebanon,normal,none,normal business activity
+2026-06-08 10:36:19,192.168.1.51,john,api_request,success,/api/v1/users,Chrome Windows,2132,Lebanon,normal,none,normal business activity
+2026-06-08 10:37:31,192.168.1.47,ali,view_file,success,/settings/password,Safari iPhone,2076,Lebanon,normal,none,normal business activity
+2026-06-08 10:41:48,192.168.1.20,nour,logout,success,/settings/password,Safari iPhone,3472,Lebanon,normal,none,normal business activity
+2026-06-08 10:43:50,192.168.1.18,nour,view_file,success,/settings/password,Firefox Linux,174,Lebanon,normal,none,normal business activity
+2026-06-08 10:47:19,192.168.1.13,john,api_request,success,/download/db_backup.zip,Safari iPhone,1704,Lebanon,normal,none,normal business activity
+2026-06-08 10:48:24,192.168.1.59,john,logout,success,/settings/password,Firefox Linux,3545,Lebanon,normal,none,normal business activity
+2026-06-08 10:48:28,192.168.1.62,mohamad,login,success,/files/report.pdf,Safari iPhone,2605,Lebanon,normal,none,normal business activity
+2026-06-08 10:52:36,192.168.1.72,maria,upload_file,success,/dashboard,Safari iPhone,3597,Lebanon,normal,none,normal business activity
+2026-06-08 10:53:08,192.168.1.44,sara,view_file,success,/download/db_backup.zip,Firefox Linux,3529,Lebanon,normal,none,normal business activity
+2026-06-08 10:54:33,192.168.1.58,nour,login,success,/login,Chrome Windows,1642,Lebanon,normal,none,normal business activity
+2026-06-08 10:55:42,192.168.1.53,nour,api_request,success,/login,Chrome Windows,452,Lebanon,normal,none,normal business activity
+2026-06-08 10:56:02,192.168.1.66,sara,api_request,success,/dashboard,Firefox Linux,3134,Lebanon,normal,none,normal business activity
+2026-06-08 10:57:10,192.168.1.34,ali,login,success,/download/db_backup.zip,Chrome Android,1291,Lebanon,normal,none,normal business activity
+2026-06-08 10:57:38,192.168.1.38,maria,logout,success,/api/v1/users,Firefox Linux,3551,Lebanon,normal,none,normal business activity
+2026-06-08 10:58:16,192.168.1.63,john,view_file,success,/settings/password,Safari iPhone,3045,Lebanon,normal,none,normal business activity
+2026-06-08 10:58:45,192.168.1.55,ali,login,success,/dashboard,Safari iPhone,2593,Lebanon,normal,none,normal business activity
+2026-06-08 11:00:15,192.168.1.55,nour,api_request,failed,/admin,Chrome Android,1622,Lebanon,normal,none,normal business activity
+2026-06-08 11:01:25,192.168.1.47,ali,upload_file,success,/files/report.pdf,Firefox Linux,3160,Lebanon,normal,none,normal business activity
+2026-06-08 11:04:01,192.168.1.38,sara,login,success,/api/v1/users,Chrome Windows,3944,Lebanon,normal,none,normal business activity
+2026-06-08 11:04:17,192.168.1.49,it.support,api_request,success,/dashboard,Chrome Android,3363,Lebanon,normal,none,normal business activity
+2026-06-08 11:07:17,192.168.1.19,mohamad,view_file,success,/logout,Chrome Windows,200,Lebanon,normal,none,normal business activity
+2026-06-08 11:10:40,192.168.1.60,nour,login,success,/files/report.pdf,Safari iPhone,3598,Lebanon,normal,none,normal business activity
+2026-06-08 11:11:23,192.168.1.68,sara,login,success,/settings/password,Firefox Linux,3263,Lebanon,normal,none,normal business activity
+2026-06-08 11:11:27,192.168.1.75,mohamad,view_file,failed,/admin,Chrome Windows,2737,Lebanon,normal,none,normal business activity
+2026-06-08 11:12:10,192.168.1.61,ali,login,success,/dashboard,Chrome Android,259,Lebanon,normal,none,normal business activity
+2026-06-08 11:14:16,192.168.1.65,john,login,success,/files/report.pdf,Firefox Linux,3613,Lebanon,normal,none,normal business activity
+2026-06-08 11:14:48,192.168.1.75,john,view_file,success,/settings/password,Chrome Windows,817,Lebanon,normal,none,normal business activity
+2026-06-08 11:15:05,192.168.1.62,sara,view_file,success,/settings/password,Safari iPhone,3751,Lebanon,normal,none,normal business activity
+2026-06-08 11:19:52,192.168.1.74,mohamad,download_file,success,/settings/password,Safari iPhone,14134,Lebanon,normal,none,normal business activity
+2026-06-08 11:20:21,192.168.1.41,sara,view_file,success,/admin,Firefox Linux,4082,Lebanon,normal,none,normal business activity
+2026-06-08 11:21:40,192.168.1.45,ali,login,success,/logout,Chrome Android,1343,Lebanon,normal,none,normal business activity
+2026-06-08 11:23:09,192.168.1.30,mohamad,view_file,success,/login,Firefox Linux,4082,Lebanon,normal,none,normal business activity
+2026-06-08 11:23:09,192.168.1.41,john,api_request,success,/logout,Safari iPhone,3475,Lebanon,normal,none,normal business activity
+2026-06-08 11:23:17,192.168.1.69,mohamad,view_file,success,/logout,Chrome Windows,2061,Lebanon,normal,none,normal business activity
+2026-06-08 11:24:07,192.168.1.19,john,view_file,success,/settings/password,Chrome Windows,2698,Lebanon,normal,none,normal business activity
+2026-06-08 11:26:52,192.168.1.44,admin,login,success,/files/report.pdf,Chrome Android,495,Lebanon,normal,none,normal business activity
+2026-06-08 11:29:25,192.168.1.51,ali,upload_file,success,/admin,Firefox Linux,2222,Lebanon,normal,none,normal business activity
+2026-06-08 11:30:44,192.168.1.11,nour,logout,success,/api/v1/users,Chrome Android,3511,Lebanon,normal,none,normal business activity
+2026-06-08 11:31:53,192.168.1.12,mohamad,api_request,success,/download/db_backup.zip,Safari iPhone,128,Lebanon,normal,none,normal business activity
+2026-06-08 11:32:44,192.168.1.52,ali,logout,failed,/logout,Chrome Windows,4127,Lebanon,normal,none,normal business activity
+2026-06-08 11:34:28,192.168.1.18,maria,change_password,success,/download/db_backup.zip,Safari iPhone,1220,Lebanon,normal,none,normal business activity
+2026-06-08 11:35:45,192.168.1.43,sara,view_file,success,/login,Chrome Windows,3549,Lebanon,normal,none,normal business activity
+2026-06-08 11:37:22,192.168.1.53,maria,logout,success,/api/v1/users,Chrome Windows,4312,Lebanon,normal,none,normal business activity
+2026-06-08 11:42:05,192.168.1.27,ali,upload_file,success,/download/db_backup.zip,Firefox Linux,3597,Lebanon,normal,none,normal business activity
+2026-06-08 11:44:11,192.168.1.76,maria,view_file,success,/logout,Safari iPhone,1172,Lebanon,normal,none,normal business activity
+2026-06-08 11:44:40,192.168.1.42,sara,download_file,success,/dashboard,Chrome Windows,12780,Lebanon,normal,none,normal business activity
+2026-06-08 11:45:25,192.168.1.17,ali,login,success,/files/report.pdf,Chrome Android,2173,Lebanon,normal,none,normal business activity
+2026-06-08 11:47:22,192.168.1.49,sara,view_file,success,/admin,Firefox Linux,2488,Lebanon,normal,none,normal business activity
+2026-06-08 11:50:19,192.168.1.36,maria,download_file,success,/settings/password,Firefox Linux,11683,Lebanon,normal,none,normal business activity
+2026-06-08 11:50:43,192.168.1.62,sara,view_file,success,/login,Safari iPhone,1163,Lebanon,normal,none,normal business activity
+2026-06-08 11:53:14,192.168.1.34,john,view_file,success,/logout,Firefox Linux,2956,Lebanon,normal,none,normal business activity
+2026-06-08 11:53:22,192.168.1.58,nour,view_file,success,/download/db_backup.zip,Chrome Windows,2499,Lebanon,normal,none,normal business activity
+2026-06-08 11:53:26,192.168.1.68,sara,view_file,success,/admin,Safari iPhone,2640,Lebanon,normal,none,normal business activity
+2026-06-08 11:54:52,192.168.1.50,john,view_file,success,/admin,Chrome Android,4169,Lebanon,normal,none,normal business activity
+2026-06-08 11:56:04,192.168.1.11,it.support,login,success,/login,Safari iPhone,4076,Lebanon,normal,none,normal business activity
+2026-06-08 11:56:24,192.168.1.37,it.support,login,success,/settings/password,Safari iPhone,590,Lebanon,normal,none,normal business activity
+2026-06-08 11:57:53,192.168.1.60,john,api_request,success,/api/v1/users,Safari iPhone,4099,Lebanon,normal,none,normal business activity
+2026-06-08 11:59:59,192.168.1.35,sara,view_file,success,/dashboard,Firefox Linux,1245,Lebanon,normal,none,normal business activity
+2026-06-08 12:01:03,192.168.1.69,nour,logout,success,/api/v1/users,Chrome Windows,2496,Lebanon,normal,none,normal business activity
+2026-06-08 12:03:00,103.21.244.7,admin,admin_panel,success,/admin,python-requests/2.31,383,Turkey,attack,admin_access_external,admin panel from external IP
+2026-06-08 12:03:06,192.168.1.72,john,login,success,/download/db_backup.zip,Chrome Windows,2492,Lebanon,normal,none,normal business activity
+2026-06-08 12:03:17,192.168.1.37,nour,view_file,success,/settings/password,Chrome Android,3954,Lebanon,normal,none,normal business activity
+2026-06-08 12:03:19,192.168.1.40,john,view_file,success,/settings/password,Chrome Windows,988,Lebanon,normal,none,normal business activity
+2026-06-08 12:04:00,103.21.244.7,admin,admin_panel,success,/admin,python-requests/2.31,585,Turkey,attack,admin_access_external,admin panel from external IP
+2026-06-08 12:04:36,192.168.1.62,mohamad,login,success,/download/db_backup.zip,Safari iPhone,1326,Lebanon,normal,none,normal business activity
+2026-06-08 12:05:00,103.21.244.7,admin,admin_panel,success,/admin,python-requests/2.31,410,Turkey,attack,admin_access_external,admin panel from external IP
+2026-06-08 12:06:00,103.21.244.7,admin,admin_panel,success,/admin,python-requests/2.31,256,Turkey,attack,admin_access_external,admin panel from external IP
+2026-06-08 12:09:08,192.168.1.36,maria,login,success,/files/report.pdf,Chrome Android,1988,Lebanon,normal,none,normal business activity
+2026-06-08 12:09:48,192.168.1.58,mohamad,view_file,success,/admin,Chrome Android,4074,Lebanon,normal,none,normal business activity
+2026-06-08 12:10:47,192.168.1.66,john,logout,success,/login,Chrome Android,4207,Lebanon,normal,none,normal business activity
+2026-06-08 12:10:51,192.168.1.61,maria,logout,success,/login,Chrome Android,3681,Lebanon,normal,none,normal business activity
+2026-06-08 12:12:45,192.168.1.44,john,login,success,/dashboard,Safari iPhone,2674,Lebanon,normal,none,normal business activity
+2026-06-08 12:16:05,192.168.1.31,mohamad,login,success,/files/report.pdf,Safari iPhone,827,Lebanon,normal,none,normal business activity
+2026-06-08 12:18:20,192.168.1.61,john,api_request,success,/login,Safari iPhone,3465,Lebanon,normal,none,normal business activity
+2026-06-08 12:21:23,192.168.1.70,ali,login,success,/logout,Safari iPhone,871,Lebanon,normal,none,normal business activity
+2026-06-08 12:24:20,192.168.1.18,ali,login,success,/admin,Firefox Linux,4337,Lebanon,normal,none,normal business activity
+2026-06-08 12:24:47,192.168.1.21,maria,logout,success,/dashboard,Chrome Android,1893,Lebanon,normal,none,normal business activity
+2026-06-08 12:27:24,192.168.1.44,sara,api_request,success,/login,Firefox Linux,3025,Lebanon,normal,none,normal business activity
+2026-06-08 12:29:53,192.168.1.35,admin,view_file,success,/dashboard,Chrome Windows,4146,Lebanon,normal,none,normal business activity
+2026-06-08 12:30:42,192.168.1.40,john,login,success,/login,Safari iPhone,3770,Lebanon,normal,none,normal business activity
+2026-06-08 12:34:49,192.168.1.56,admin,view_file,success,/settings/password,Chrome Android,3562,Lebanon,normal,none,normal business activity
+2026-06-08 12:35:46,192.168.1.21,mohamad,login,success,/download/db_backup.zip,Safari iPhone,4311,Lebanon,normal,none,normal business activity
+2026-06-08 12:37:02,192.168.1.45,ali,api_request,success,/login,Chrome Android,2656,Lebanon,normal,none,normal business activity
+2026-06-08 12:38:14,192.168.1.35,john,login,success,/logout,Chrome Android,945,Lebanon,normal,none,normal business activity
+2026-06-08 12:39:13,192.168.1.24,it.support,view_file,success,/settings/password,Firefox Linux,452,Lebanon,normal,none,normal business activity
+2026-06-08 12:39:27,192.168.1.59,mohamad,view_file,success,/download/db_backup.zip,Chrome Android,3908,Lebanon,normal,none,normal business activity
+2026-06-08 12:40:18,192.168.1.79,john,view_file,success,/admin,Chrome Android,2459,Lebanon,normal,none,normal business activity
+2026-06-08 12:41:00,192.168.1.16,nour,api_request,success,/api/v1/users,Chrome Android,2966,Lebanon,normal,none,normal business activity
+2026-06-08 12:42:12,192.168.1.68,ali,login,success,/login,Chrome Windows,2812,Lebanon,normal,none,normal business activity
+2026-06-08 12:43:02,192.168.1.26,john,download_file,success,/settings/password,Safari iPhone,11689,Lebanon,normal,none,normal business activity
+2026-06-08 12:44:51,192.168.1.30,maria,download_file,success,/dashboard,Chrome Android,8014,Lebanon,normal,none,normal business activity
+2026-06-08 12:46:24,192.168.1.35,john,download_file,success,/files/report.pdf,Chrome Windows,8766,Lebanon,normal,none,normal business activity
+2026-06-08 12:47:52,192.168.1.56,maria,login,success,/dashboard,Chrome Windows,3861,Lebanon,normal,none,normal business activity
+2026-06-08 12:49:24,192.168.1.53,mohamad,download_file,success,/admin,Chrome Windows,7901,Lebanon,normal,none,normal business activity
+2026-06-08 12:51:48,192.168.1.67,it.support,logout,success,/settings/password,Chrome Android,3093,Lebanon,normal,none,normal business activity
+2026-06-08 12:54:20,192.168.1.17,sara,api_request,success,/files/report.pdf,Chrome Windows,1514,Lebanon,normal,none,normal business activity
+2026-06-08 12:55:08,192.168.1.67,sara,download_file,success,/login,Safari iPhone,4736,Lebanon,normal,none,normal business activity
+2026-06-08 12:56:14,192.168.1.50,maria,view_file,success,/admin,Chrome Android,2552,Lebanon,normal,none,normal business activity
+2026-06-08 12:56:20,192.168.1.73,john,upload_file,success,/download/db_backup.zip,Chrome Android,4178,Lebanon,normal,none,normal business activity
+2026-06-08 12:58:36,192.168.1.41,maria,view_file,success,/settings/password,Chrome Android,2088,Lebanon,normal,none,normal business activity
+2026-06-08 12:59:18,192.168.1.75,nour,api_request,success,/logout,Chrome Android,3451,Lebanon,normal,none,normal business activity
+2026-06-08 13:01:08,192.168.1.10,john,api_request,success,/download/db_backup.zip,Chrome Windows,1571,Lebanon,normal,none,normal business activity
+2026-06-08 13:01:29,192.168.1.65,mohamad,login,success,/files/report.pdf,Safari iPhone,3779,Lebanon,normal,none,normal business activity
+2026-06-08 13:03:16,192.168.1.22,mohamad,change_password,success,/api/v1/users,Firefox Linux,2641,Lebanon,normal,none,normal business activity
+2026-06-08 13:06:30,192.168.1.56,maria,logout,success,/settings/password,Chrome Android,3830,Lebanon,normal,none,normal business activity
+2026-06-08 13:07:02,192.168.1.24,maria,login,success,/logout,Chrome Android,2078,Lebanon,normal,none,normal business activity
+2026-06-08 13:07:24,192.168.1.78,sara,view_file,success,/api/v1/users,Chrome Android,3873,Lebanon,normal,none,normal business activity
+2026-06-08 13:08:13,192.168.1.75,admin,login,success,/login,Chrome Android,4134,Lebanon,normal,none,normal business activity
+2026-06-08 13:10:15,192.168.1.29,sara,download_file,success,/logout,Safari iPhone,12296,Lebanon,normal,none,normal business activity
+2026-06-08 13:13:28,192.168.1.64,nour,login,success,/settings/password,Chrome Windows,2968,Lebanon,normal,none,normal business activity
+2026-06-08 13:15:50,192.168.1.72,mohamad,api_request,success,/download/db_backup.zip,Chrome Android,3119,Lebanon,normal,none,normal business activity
+2026-06-08 13:17:05,192.168.1.36,admin,api_request,success,/admin,Safari iPhone,621,Lebanon,normal,none,normal business activity
+2026-06-08 13:17:32,192.168.1.79,mohamad,view_file,failed,/files/report.pdf,Firefox Linux,3004,Lebanon,normal,none,normal business activity
+2026-06-08 13:17:35,192.168.1.52,mohamad,change_password,success,/logout,Safari iPhone,4245,Lebanon,normal,none,normal business activity
+2026-06-08 13:17:44,192.168.1.40,mohamad,login,success,/download/db_backup.zip,Chrome Windows,3794,Lebanon,normal,none,normal business activity
+2026-06-08 13:18:17,192.168.1.22,maria,api_request,success,/api/v1/users,Safari iPhone,2708,Lebanon,normal,none,normal business activity
+2026-06-08 13:20:07,192.168.1.24,sara,login,success,/download/db_backup.zip,Safari iPhone,1209,Lebanon,normal,none,normal business activity
+2026-06-08 13:22:50,192.168.1.45,john,download_file,success,/api/v1/users,Chrome Windows,13287,Lebanon,normal,none,normal business activity
+2026-06-08 13:25:58,192.168.1.38,maria,download_file,success,/settings/password,Chrome Android,7925,Lebanon,normal,none,normal business activity
+2026-06-08 13:26:16,192.168.1.19,ali,view_file,success,/dashboard,Chrome Windows,842,Lebanon,normal,none,normal business activity
+2026-06-08 13:29:38,192.168.1.26,john,logout,success,/admin,Safari iPhone,4426,Lebanon,normal,none,normal business activity
+2026-06-08 13:30:00,192.168.1.22,mohamad,download_file,success,/download/db_backup.zip,Chrome Windows,1359447,Lebanon,attack,data_exfiltration,unusually high download volume
+2026-06-08 13:30:53,192.168.1.26,sara,view_file,success,/admin,Chrome Windows,456,Lebanon,normal,none,normal business activity
+2026-06-08 13:32:00,192.168.1.22,mohamad,download_file,success,/download/db_backup.zip,Chrome Windows,1090065,Lebanon,attack,data_exfiltration,unusually high download volume
+2026-06-08 13:34:00,192.168.1.22,mohamad,download_file,success,/download/db_backup.zip,Chrome Windows,1541018,Lebanon,attack,data_exfiltration,unusually high download volume
+2026-06-08 13:35:05,192.168.1.22,mohamad,login,success,/admin,Chrome Android,135,Lebanon,normal,none,normal business activity
+2026-06-08 13:35:54,192.168.1.24,admin,download_file,success,/settings/password,Chrome Windows,10861,Lebanon,normal,none,normal business activity
+2026-06-08 13:36:00,192.168.1.22,mohamad,download_file,success,/download/db_backup.zip,Chrome Windows,1298197,Lebanon,attack,data_exfiltration,unusually high download volume
+2026-06-08 13:36:49,192.168.1.10,john,logout,success,/dashboard,Firefox Linux,1509,Lebanon,normal,none,normal business activity
+2026-06-08 13:38:00,192.168.1.22,mohamad,download_file,success,/download/db_backup.zip,Chrome Windows,1717012,Lebanon,attack,data_exfiltration,unusually high download volume
+2026-06-08 13:38:41,192.168.1.67,john,api_request,success,/files/report.pdf,Chrome Windows,2279,Lebanon,normal,none,normal business activity
+2026-06-08 13:39:44,192.168.1.70,sara,api_request,success,/login,Firefox Linux,2562,Lebanon,normal,none,normal business activity
+2026-06-08 13:40:00,192.168.1.22,mohamad,download_file,success,/download/db_backup.zip,Chrome Windows,1276018,Lebanon,attack,data_exfiltration,unusually high download volume
+2026-06-08 13:40:19,192.168.1.11,ali,login,success,/logout,Safari iPhone,2067,Lebanon,normal,none,normal business activity
+2026-06-08 13:40:40,192.168.1.50,ali,download_file,failed,/api/v1/users,Chrome Android,14971,Lebanon,normal,none,normal business activity
+2026-06-08 13:41:49,192.168.1.75,john,download_file,success,/files/report.pdf,Firefox Linux,8252,Lebanon,normal,none,normal business activity
+2026-06-08 13:42:00,192.168.1.22,mohamad,download_file,success,/download/db_backup.zip,Chrome Windows,1541055,Lebanon,attack,data_exfiltration,unusually high download volume
+2026-06-08 13:43:51,192.168.1.77,mohamad,login,success,/logout,Safari iPhone,3808,Lebanon,normal,none,normal business activity
+2026-06-08 13:45:50,192.168.1.34,sara,login,success,/download/db_backup.zip,Safari iPhone,4301,Lebanon,normal,none,normal business activity
+2026-06-08 13:46:38,192.168.1.71,ali,download_file,success,/dashboard,Safari iPhone,5073,Lebanon,normal,none,normal business activity
+2026-06-08 13:46:39,192.168.1.20,it.support,api_request,success,/download/db_backup.zip,Firefox Linux,4077,Lebanon,normal,none,normal business activity
+2026-06-08 13:47:11,192.168.1.73,mohamad,view_file,success,/api/v1/users,Chrome Windows,3557,Lebanon,normal,none,normal business activity
+2026-06-08 13:49:10,192.168.1.51,mohamad,upload_file,success,/logout,Chrome Windows,1354,Lebanon,normal,none,normal business activity
+2026-06-08 13:50:26,192.168.1.68,ali,login,success,/dashboard,Chrome Windows,4074,Lebanon,normal,none,normal business activity
+2026-06-08 13:50:34,192.168.1.43,sara,view_file,success,/files/report.pdf,Firefox Linux,2525,Lebanon,normal,none,normal business activity
+2026-06-08 13:51:46,192.168.1.78,it.support,download_file,success,/admin,Firefox Linux,5285,Lebanon,normal,none,normal business activity
+2026-06-08 13:51:52,192.168.1.64,john,download_file,success,/files/report.pdf,Safari iPhone,3963,Lebanon,normal,none,normal business activity
+2026-06-08 13:53:37,192.168.1.64,sara,download_file,success,/api/v1/users,Chrome Android,8802,Lebanon,normal,none,normal business activity
+2026-06-08 13:55:33,192.168.1.43,admin,login,success,/api/v1/users,Chrome Windows,320,Lebanon,normal,none,normal business activity
+2026-06-08 13:55:45,192.168.1.79,john,logout,success,/dashboard,Chrome Android,3041,Lebanon,normal,none,normal business activity
+2026-06-08 14:00:19,192.168.1.63,it.support,view_file,success,/files/report.pdf,Safari iPhone,1877,Lebanon,normal,none,normal business activity
+2026-06-08 14:01:15,192.168.1.33,nour,download_file,success,/admin,Chrome Windows,11118,Lebanon,normal,none,normal business activity
+2026-06-08 14:02:55,192.168.1.64,nour,api_request,success,/api/v1/users,Firefox Linux,2960,Lebanon,normal,none,normal business activity
+2026-06-08 14:06:54,192.168.1.78,john,view_file,success,/files/report.pdf,Safari iPhone,2279,Lebanon,normal,none,normal business activity
+2026-06-08 14:07:30,192.168.1.72,admin,view_file,success,/admin,Safari iPhone,2295,Lebanon,normal,none,normal business activity
+2026-06-08 14:08:32,192.168.1.69,ali,login,success,/settings/password,Firefox Linux,1744,Lebanon,normal,none,normal business activity
+2026-06-08 14:09:06,192.168.1.49,john,view_file,success,/logout,Chrome Android,795,Lebanon,normal,none,normal business activity
+2026-06-08 14:09:11,192.168.1.78,sara,login,failed,/login,Firefox Linux,1114,Lebanon,normal,none,normal business activity
+2026-06-08 14:10:01,192.168.1.33,mohamad,api_request,success,/settings/password,Chrome Android,1935,Lebanon,normal,none,normal business activity
+2026-06-08 14:10:04,192.168.1.24,ali,login,success,/files/report.pdf,Chrome Android,1427,Lebanon,normal,none,normal business activity
+2026-06-08 14:10:14,192.168.1.27,ali,view_file,success,/login,Chrome Windows,1332,Lebanon,normal,none,normal business activity
+2026-06-08 14:10:55,192.168.1.67,it.support,run_command,success,/shell,PowerShell/7.4,1000,Lebanon,attack,suspicious_command,whoami
+2026-06-08 14:10:56,192.168.1.67,it.support,run_command,success,/shell,PowerShell/7.4,721,Lebanon,attack,suspicious_command,net user
+2026-06-08 14:11:06,192.168.1.57,ali,view_file,success,/admin,Chrome Windows,3341,Lebanon,normal,none,normal business activity
+2026-06-08 14:11:30,192.168.1.67,it.support,run_command,success,/shell,PowerShell/7.4,799,Lebanon,attack,suspicious_command,ipconfig
+2026-06-08 14:13:02,192.168.1.67,it.support,run_command,success,/shell,PowerShell/7.4,364,Lebanon,attack,suspicious_command,powershell encoded command
+2026-06-08 14:15:25,192.168.1.45,sara,logout,success,/dashboard,Safari iPhone,4321,Lebanon,normal,none,normal business activity
+2026-06-08 14:16:07,192.168.1.38,maria,change_password,success,/login,Firefox Linux,317,Lebanon,normal,none,normal business activity
+2026-06-08 14:16:39,192.168.1.27,sara,view_file,success,/admin,Safari iPhone,3937,Lebanon,normal,none,normal business activity
+2026-06-08 14:17:43,192.168.1.43,it.support,view_file,success,/admin,Chrome Windows,1995,Lebanon,normal,none,normal business activity
+2026-06-08 14:18:18,192.168.1.79,john,download_file,success,/login,Firefox Linux,13368,Lebanon,normal,none,normal business activity
+2026-06-08 14:19:20,192.168.1.38,mohamad,upload_file,failed,/download/db_backup.zip,Firefox Linux,1328,Lebanon,normal,none,normal business activity
+2026-06-08 14:21:31,192.168.1.32,nour,api_request,success,/admin,Firefox Linux,1419,Lebanon,normal,none,normal business activity
+2026-06-08 14:21:51,192.168.1.17,john,view_file,success,/admin,Chrome Windows,3445,Lebanon,normal,none,normal business activity
+2026-06-08 14:22:16,192.168.1.55,it.support,upload_file,success,/logout,Firefox Linux,1172,Lebanon,normal,none,normal business activity
+2026-06-08 14:22:52,192.168.1.30,john,login,success,/download/db_backup.zip,Chrome Android,4374,Lebanon,normal,none,normal business activity
+2026-06-08 14:25:09,192.168.1.31,john,download_file,failed,/admin,Chrome Android,9777,Lebanon,normal,none,normal business activity
+2026-06-08 14:25:54,192.168.1.49,it.support,login,success,/files/report.pdf,Safari iPhone,4110,Lebanon,normal,none,normal business activity
+2026-06-08 14:25:54,192.168.1.42,sara,login,success,/download/db_backup.zip,Chrome Windows,140,Lebanon,normal,none,normal business activity
+2026-06-08 14:26:43,192.168.1.15,nour,api_request,success,/files/report.pdf,Safari iPhone,1791,Lebanon,normal,none,normal business activity
+2026-06-08 14:30:23,192.168.1.15,sara,logout,success,/files/report.pdf,Firefox Linux,584,Lebanon,normal,none,normal business activity
+2026-06-08 14:31:43,192.168.1.55,mohamad,login,success,/api/v1/users,Safari iPhone,1297,Lebanon,normal,none,normal business activity
+2026-06-08 14:33:48,192.168.1.20,it.support,view_file,success,/login,Chrome Windows,3660,Lebanon,normal,none,normal business activity
+2026-06-08 14:34:00,192.168.1.59,sara,upload_file,success,/files/report.pdf,Chrome Android,3198,Lebanon,normal,none,normal business activity
+2026-06-08 14:35:07,192.168.1.19,sara,view_file,success,/admin,Firefox Linux,1161,Lebanon,normal,none,normal business activity
+2026-06-08 14:36:52,192.168.1.78,admin,download_file,success,/files/report.pdf,Safari iPhone,7396,Lebanon,normal,none,normal business activity
+2026-06-08 14:36:55,192.168.1.63,maria,view_file,success,/settings/password,Chrome Windows,216,Lebanon,normal,none,normal business activity
+2026-06-08 14:36:58,192.168.1.43,nour,upload_file,success,/files/report.pdf,Firefox Linux,4103,Lebanon,normal,none,normal business activity
+2026-06-08 14:38:00,192.168.1.36,it.support,logout,success,/logout,Chrome Windows,4478,Lebanon,normal,none,normal business activity
+2026-06-08 14:40:29,192.168.1.74,maria,login,success,/settings/password,Chrome Windows,2500,Lebanon,normal,none,normal business activity
+2026-06-08 14:41:37,192.168.1.55,john,api_request,success,/api/v1/users,Chrome Windows,1177,Lebanon,normal,none,normal business activity
+2026-06-08 14:42:31,192.168.1.44,john,download_file,success,/logout,Chrome Windows,9100,Lebanon,normal,none,normal business activity
+2026-06-08 14:42:32,192.168.1.40,mohamad,login,success,/login,Firefox Linux,4134,Lebanon,normal,none,normal business activity
+2026-06-08 14:42:33,192.168.1.38,john,api_request,success,/api/v1/users,Safari iPhone,3554,Lebanon,normal,none,normal business activity
+2026-06-08 14:45:08,192.168.1.48,nour,view_file,success,/logout,Chrome Windows,3834,Lebanon,normal,none,normal business activity
+2026-06-08 14:45:37,192.168.1.48,john,logout,success,/download/db_backup.zip,Safari iPhone,2679,Lebanon,normal,none,normal business activity
+2026-06-08 14:45:56,192.168.1.68,ali,login,success,/api/v1/users,Safari iPhone,3351,Lebanon,normal,none,normal business activity
+2026-06-08 14:46:54,192.168.1.56,maria,login,success,/api/v1/users,Chrome Windows,3805,Lebanon,normal,none,normal business activity
+2026-06-08 14:52:46,192.168.1.23,sara,logout,success,/settings/password,Chrome Android,3536,Lebanon,normal,none,normal business activity
+2026-06-08 14:53:27,192.168.1.59,ali,login,success,/admin,Chrome Windows,2719,Lebanon,normal,none,normal business activity
+2026-06-08 14:54:01,192.168.1.31,ali,upload_file,success,/admin,Chrome Windows,3657,Lebanon,normal,none,normal business activity
+2026-06-08 14:55:24,192.168.1.70,mohamad,login,failed,/dashboard,Chrome Windows,4174,Lebanon,normal,none,normal business activity
+2026-06-08 14:55:29,192.168.1.38,nour,logout,success,/logout,Chrome Windows,845,Lebanon,normal,none,normal business activity
+2026-06-08 14:55:35,192.168.1.48,maria,logout,success,/admin,Safari iPhone,3699,Lebanon,normal,none,normal business activity
+2026-06-08 14:56:12,192.168.1.65,john,view_file,success,/login,Chrome Windows,576,Lebanon,normal,none,normal business activity
+2026-06-08 14:58:07,192.168.1.14,john,logout,success,/logout,Chrome Android,4483,Lebanon,normal,none,normal business activity
+2026-06-08 14:58:20,192.168.1.47,mohamad,view_file,success,/download/db_backup.zip,Chrome Android,2545,Lebanon,normal,none,normal business activity
+2026-06-08 15:00:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,4385,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:01:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,4276,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:02:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,3649,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:03:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,3861,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:04:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,4464,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:04:21,192.168.1.74,ali,logout,failed,/api/v1/users,Safari iPhone,1297,Lebanon,normal,none,normal business activity
+2026-06-08 15:05:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,3814,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:05:11,192.168.1.79,sara,api_request,success,/api/v1/users,Chrome Android,2185,Lebanon,normal,none,normal business activity
+2026-06-08 15:05:27,192.168.1.20,it.support,download_file,success,/dashboard,Firefox Linux,3869,Lebanon,normal,none,normal business activity
+2026-06-08 15:05:30,192.168.1.53,mohamad,view_file,success,/admin,Firefox Linux,3346,Lebanon,normal,none,normal business activity
+2026-06-08 15:05:58,192.168.1.24,ali,api_request,success,/admin,Firefox Linux,2890,Lebanon,normal,none,normal business activity
+2026-06-08 15:06:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,2417,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:07:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,4243,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:07:56,192.168.1.14,maria,api_request,success,/settings/password,Chrome Android,2451,Lebanon,normal,none,normal business activity
+2026-06-08 15:08:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,2885,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:09:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,3626,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:09:39,192.168.1.12,maria,logout,success,/login,Safari iPhone,478,Lebanon,normal,none,normal business activity
+2026-06-08 15:09:42,192.168.1.76,nour,logout,success,/admin,Chrome Android,2255,Lebanon,normal,none,normal business activity
+2026-06-08 15:10:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,3642,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:11:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,4319,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:11:16,192.168.1.70,maria,login,success,/admin,Chrome Android,642,Lebanon,normal,none,normal business activity
+2026-06-08 15:12:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,4369,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:13:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,4032,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:13:13,192.168.1.35,ali,download_file,success,/admin,Safari iPhone,10979,Lebanon,normal,none,normal business activity
+2026-06-08 15:14:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,1890,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:15:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,3272,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:16:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,4210,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:16:47,192.168.1.15,john,login,success,/dashboard,Firefox Linux,3008,Lebanon,normal,none,normal business activity
+2026-06-08 15:17:00,203.0.113.44,api.bot,api_request,success,/api/v1/users,python-requests/2.31,4476,USA,attack,api_abuse,many API requests in short time
+2026-06-08 15:20:52,192.168.1.27,maria,logout,success,/files/report.pdf,Safari iPhone,2653,Lebanon,normal,none,normal business activity
+2026-06-08 15:23:23,192.168.1.68,nour,download_file,success,/api/v1/users,Safari iPhone,10116,Lebanon,normal,none,normal business activity
+2026-06-08 15:24:41,192.168.1.22,maria,api_request,success,/files/report.pdf,Chrome Android,3975,Lebanon,normal,none,normal business activity
+2026-06-08 15:25:17,192.168.1.17,nour,login,success,/admin,Chrome Android,335,Lebanon,normal,none,normal business activity
+2026-06-08 15:26:52,192.168.1.44,it.support,logout,success,/logout,Firefox Linux,3772,Lebanon,normal,none,normal business activity
+2026-06-08 15:28:39,192.168.1.21,sara,view_file,success,/logout,Safari iPhone,3358,Lebanon,normal,none,normal business activity
+2026-06-08 15:28:46,192.168.1.31,mohamad,api_request,success,/download/db_backup.zip,Firefox Linux,3154,Lebanon,normal,none,normal business activity
+2026-06-08 15:30:04,192.168.1.40,it.support,logout,success,/logout,Chrome Android,1315,Lebanon,normal,none,normal business activity
+2026-06-08 15:30:04,192.168.1.48,mohamad,upload_file,success,/admin,Chrome Windows,2622,Lebanon,normal,none,normal business activity
+2026-06-08 15:32:43,192.168.1.70,sara,upload_file,success,/dashboard,Chrome Windows,2404,Lebanon,normal,none,normal business activity
+2026-06-08 15:33:19,192.168.1.64,maria,logout,success,/logout,Chrome Android,1808,Lebanon,normal,none,normal business activity
+2026-06-08 15:34:31,192.168.1.13,john,upload_file,success,/login,Firefox Linux,1921,Lebanon,normal,none,normal business activity
+2026-06-08 15:36:51,192.168.1.26,john,view_file,success,/login,Safari iPhone,2604,Lebanon,normal,none,normal business activity
+2026-06-08 15:37:34,192.168.1.52,mohamad,view_file,success,/settings/password,Firefox Linux,1625,Lebanon,normal,none,normal business activity
+2026-06-08 15:41:56,192.168.1.13,sara,view_file,success,/admin,Chrome Android,3243,Lebanon,normal,none,normal business activity
+2026-06-08 15:42:07,192.168.1.18,sara,view_file,success,/files/report.pdf,Chrome Android,138,Lebanon,normal,none,normal business activity
+2026-06-08 15:44:00,192.168.1.43,ali,api_request,success,/logout,Firefox Linux,4238,Lebanon,normal,none,normal business activity
+2026-06-08 15:44:40,192.168.1.30,maria,view_file,success,/api/v1/users,Chrome Windows,1481,Lebanon,normal,none,normal business activity
+2026-06-08 15:46:50,192.168.1.71,sara,view_file,success,/settings/password,Firefox Linux,630,Lebanon,normal,none,normal business activity
+2026-06-08 15:47:00,192.168.1.62,it.support,api_request,success,/logout,Safari iPhone,2251,Lebanon,normal,none,normal business activity
+2026-06-08 15:47:17,192.168.1.71,maria,upload_file,success,/dashboard,Chrome Windows,1165,Lebanon,normal,none,normal business activity
+2026-06-08 15:47:35,192.168.1.34,john,api_request,success,/dashboard,Chrome Windows,2343,Lebanon,normal,none,normal business activity
+2026-06-08 15:49:58,192.168.1.76,maria,upload_file,success,/dashboard,Chrome Android,900,Lebanon,normal,none,normal business activity
+2026-06-08 15:50:16,192.168.1.69,nour,api_request,success,/dashboard,Chrome Windows,3698,Lebanon,normal,none,normal business activity
+2026-06-08 15:50:58,192.168.1.50,john,view_file,success,/download/db_backup.zip,Firefox Linux,1023,Lebanon,normal,none,normal business activity
+2026-06-08 15:52:11,192.168.1.58,john,view_file,success,/admin,Safari iPhone,2359,Lebanon,normal,none,normal business activity
+2026-06-08 15:52:28,192.168.1.57,john,api_request,success,/logout,Safari iPhone,3870,Lebanon,normal,none,normal business activity
+2026-06-08 15:54:16,192.168.1.21,maria,login,success,/login,Chrome Android,2765,Lebanon,normal,none,normal business activity
+2026-06-08 15:54:54,192.168.1.16,john,api_request,success,/logout,Safari iPhone,1673,Lebanon,normal,none,normal business activity
+2026-06-08 15:55:42,192.168.1.50,admin,api_request,success,/download/db_backup.zip,Safari iPhone,1383,Lebanon,normal,none,normal business activity
+2026-06-08 15:55:48,192.168.1.67,nour,download_file,success,/admin,Firefox Linux,4973,Lebanon,normal,none,normal business activity
+2026-06-08 15:56:55,192.168.1.49,sara,view_file,success,/login,Firefox Linux,1723,Lebanon,normal,none,normal business activity
+2026-06-08 15:59:44,192.168.1.61,sara,api_request,success,/settings/password,Safari iPhone,738,Lebanon,normal,none,normal business activity
+2026-06-08 16:01:18,192.168.1.46,john,download_file,success,/settings/password,Chrome Windows,13762,Lebanon,normal,none,normal business activity
+2026-06-08 16:01:18,192.168.1.23,admin,view_file,success,/admin,Safari iPhone,3077,Lebanon,normal,none,normal business activity
+2026-06-08 16:02:01,192.168.1.51,nour,api_request,success,/logout,Safari iPhone,2555,Lebanon,normal,none,normal business activity
+2026-06-08 16:04:42,192.168.1.37,john,view_file,success,/admin,Chrome Android,1018,Lebanon,normal,none,normal business activity
+2026-06-08 16:06:28,192.168.1.41,sara,api_request,success,/settings/password,Chrome Android,2329,Lebanon,normal,none,normal business activity
+2026-06-08 16:09:00,192.168.1.35,sara,change_password,success,/dashboard,Firefox Linux,567,Lebanon,normal,none,normal business activity
+2026-06-08 16:09:07,192.168.1.61,maria,view_file,success,/login,Chrome Android,1302,Lebanon,normal,none,normal business activity
+2026-06-08 16:10:37,192.168.1.74,mohamad,api_request,success,/download/db_backup.zip,Chrome Windows,3025,Lebanon,normal,none,normal business activity
+2026-06-08 16:11:12,192.168.1.36,john,login,success,/logout,Safari iPhone,1026,Lebanon,normal,none,normal business activity
+2026-06-08 16:13:04,192.168.1.45,sara,download_file,success,/api/v1/users,Firefox Linux,5586,Lebanon,normal,none,normal business activity
+2026-06-08 16:13:51,192.168.1.53,sara,change_password,success,/logout,Chrome Android,1928,Lebanon,normal,none,normal business activity
+2026-06-08 16:14:06,192.168.1.55,sara,view_file,success,/api/v1/users,Chrome Windows,3322,Lebanon,normal,none,normal business activity
+2026-06-08 16:15:17,192.168.1.77,it.support,view_file,success,/files/report.pdf,Firefox Linux,1943,Lebanon,normal,none,normal business activity
+2026-06-08 16:17:36,192.168.1.14,nour,login,success,/download/db_backup.zip,Chrome Windows,3322,Lebanon,normal,none,normal business activity
+2026-06-08 16:21:39,192.168.1.45,mohamad,login,success,/settings/password,Safari iPhone,2014,Lebanon,normal,none,normal business activity
+2026-06-08 16:22:06,192.168.1.46,maria,view_file,success,/dashboard,Chrome Windows,2148,Lebanon,normal,none,normal business activity
+2026-06-08 16:22:29,192.168.1.55,john,login,success,/settings/password,Chrome Android,561,Lebanon,normal,none,normal business activity
+2026-06-08 16:23:05,192.168.1.62,mohamad,view_file,success,/dashboard,Firefox Linux,3452,Lebanon,normal,none,normal business activity
+2026-06-08 16:24:34,192.168.1.72,sara,login,success,/files/report.pdf,Chrome Windows,4392,Lebanon,normal,none,normal business activity
+2026-06-08 16:27:02,192.168.1.52,john,api_request,success,/settings/password,Chrome Windows,4388,Lebanon,normal,none,normal business activity
+2026-06-08 16:27:18,192.168.1.61,nour,change_password,success,/settings/password,Chrome Windows,2656,Lebanon,normal,none,normal business activity
+2026-06-08 16:31:38,192.168.1.75,admin,view_file,success,/api/v1/users,Safari iPhone,92,Lebanon,normal,none,normal business activity
+2026-06-08 16:32:07,192.168.1.58,maria,view_file,success,/dashboard,Chrome Android,1720,Lebanon,normal,none,normal business activity
+2026-06-08 16:33:09,192.168.1.67,ali,login,success,/admin,Chrome Windows,4213,Lebanon,normal,none,normal business activity
+2026-06-08 16:34:52,192.168.1.65,it.support,change_password,success,/logout,Chrome Windows,4375,Lebanon,normal,none,normal business activity
+2026-06-08 16:36:10,192.168.1.14,john,view_file,success,/login,Chrome Windows,965,Lebanon,normal,none,normal business activity
+2026-06-08 16:36:29,192.168.1.24,sara,view_file,success,/api/v1/users,Chrome Android,195,Lebanon,normal,none,normal business activity
+2026-06-08 16:40:14,192.168.1.35,john,upload_file,success,/settings/password,Chrome Windows,3036,Lebanon,normal,none,normal business activity
+2026-06-08 16:41:00,192.168.1.11,john,logout,success,/download/db_backup.zip,Chrome Android,1546,Lebanon,normal,none,normal business activity
+2026-06-08 16:41:25,192.168.1.78,nour,view_file,failed,/api/v1/users,Chrome Android,2254,Lebanon,normal,none,normal business activity
+2026-06-08 16:41:25,192.168.1.15,mohamad,login,success,/settings/password,Safari iPhone,1300,Lebanon,normal,none,normal business activity
+2026-06-08 16:41:34,192.168.1.48,mohamad,view_file,failed,/admin,Chrome Windows,3492,Lebanon,normal,none,normal business activity
+2026-06-08 16:43:23,192.168.1.31,john,view_file,success,/logout,Chrome Windows,1951,Lebanon,normal,none,normal business activity
+2026-06-08 16:43:42,192.168.1.57,ali,view_file,success,/api/v1/users,Firefox Linux,965,Lebanon,normal,none,normal business activity
+2026-06-08 16:45:37,192.168.1.74,john,login,success,/api/v1/users,Safari iPhone,335,Lebanon,normal,none,normal business activity
+2026-06-08 16:47:08,192.168.1.50,sara,login,success,/api/v1/users,Firefox Linux,4235,Lebanon,normal,none,normal business activity
+2026-06-08 16:47:42,192.168.1.52,nour,login,success,/files/report.pdf,Firefox Linux,1920,Lebanon,normal,none,normal business activity
+2026-06-08 16:47:47,192.168.1.57,sara,view_file,success,/login,Chrome Windows,3835,Lebanon,normal,none,normal business activity
+2026-06-08 16:48:11,192.168.1.52,admin,view_file,success,/files/report.pdf,Safari iPhone,1591,Lebanon,normal,none,normal business activity
+2026-06-08 16:49:22,192.168.1.33,john,upload_file,success,/login,Chrome Windows,4324,Lebanon,normal,none,normal business activity
+2026-06-08 16:51:13,192.168.1.71,nour,view_file,success,/dashboard,Safari iPhone,4447,Lebanon,normal,none,normal business activity
+2026-06-08 16:52:38,192.168.1.65,admin,api_request,success,/admin,Safari iPhone,3022,Lebanon,normal,none,normal business activity
+2026-06-08 16:56:02,192.168.1.19,maria,api_request,success,/login,Safari iPhone,1206,Lebanon,normal,none,normal business activity
+2026-06-08 16:58:26,192.168.1.19,maria,login,success,/logout,Safari iPhone,3896,Lebanon,normal,none,normal business activity
+2026-06-08 17:02:22,192.168.1.39,maria,api_request,success,/files/report.pdf,Firefox Linux,4451,Lebanon,normal,none,normal business activity
+2026-06-08 17:03:12,192.168.1.10,john,download_file,success,/admin,Firefox Linux,4612,Lebanon,normal,none,normal business activity
+2026-06-08 17:03:14,192.168.1.16,nour,login,success,/settings/password,Chrome Windows,1206,Lebanon,normal,none,normal business activity
+2026-06-08 17:03:22,192.168.1.52,mohamad,view_file,success,/api/v1/users,Firefox Linux,1968,Lebanon,normal,none,normal business activity
+2026-06-08 17:03:36,192.168.1.31,john,view_file,success,/dashboard,Safari iPhone,3704,Lebanon,normal,none,normal business activity
+2026-06-08 17:04:24,192.168.1.41,maria,view_file,success,/files/report.pdf,Chrome Windows,343,Lebanon,normal,none,normal business activity
+2026-06-08 17:05:27,192.168.1.18,nour,view_file,success,/download/db_backup.zip,Safari iPhone,944,Lebanon,normal,none,normal business activity
+2026-06-08 17:06:46,192.168.1.69,sara,view_file,success,/files/report.pdf,Firefox Linux,538,Lebanon,normal,none,normal business activity
+2026-06-08 17:09:38,192.168.1.20,nour,login,success,/admin,Chrome Android,442,Lebanon,normal,none,normal business activity
+2026-06-08 17:10:18,192.168.1.68,john,view_file,success,/settings/password,Chrome Windows,1015,Lebanon,normal,none,normal business activity
+2026-06-08 17:10:51,192.168.1.37,nour,upload_file,success,/logout,Safari iPhone,4406,Lebanon,normal,none,normal business activity
+2026-06-08 17:14:02,192.168.1.40,nour,download_file,success,/files/report.pdf,Chrome Windows,9610,Lebanon,normal,none,normal business activity
+2026-06-08 17:17:32,192.168.1.74,maria,view_file,success,/settings/password,Chrome Windows,3249,Lebanon,normal,none,normal business activity
+2026-06-08 17:24:00,192.168.1.21,nour,login,success,/logout,Safari iPhone,1042,Lebanon,normal,none,normal business activity
+2026-06-08 17:27:36,192.168.1.26,mohamad,view_file,success,/api/v1/users,Safari iPhone,4001,Lebanon,normal,none,normal business activity
+2026-06-08 17:29:42,192.168.1.29,it.support,login,success,/login,Chrome Windows,2649,Lebanon,normal,none,normal business activity
+2026-06-08 17:31:11,192.168.1.70,sara,login,success,/dashboard,Firefox Linux,811,Lebanon,normal,none,normal business activity
+2026-06-08 17:32:53,192.168.1.55,nour,login,success,/login,Safari iPhone,233,Lebanon,normal,none,normal business activity
+2026-06-08 17:33:56,192.168.1.29,maria,api_request,success,/dashboard,Chrome Android,3457,Lebanon,normal,none,normal business activity
+2026-06-08 17:36:06,192.168.1.37,john,view_file,success,/admin,Chrome Windows,2081,Lebanon,normal,none,normal business activity
+2026-06-08 17:36:19,192.168.1.41,john,login,success,/files/report.pdf,Safari iPhone,3770,Lebanon,normal,none,normal business activity
+2026-06-08 17:36:41,192.168.1.61,nour,api_request,success,/download/db_backup.zip,Chrome Windows,166,Lebanon,normal,none,normal business activity
+2026-06-08 17:40:02,192.168.1.67,nour,api_request,success,/logout,Chrome Android,4417,Lebanon,normal,none,normal business activity
+2026-06-08 17:42:01,192.168.1.35,john,api_request,success,/settings/password,Chrome Windows,3032,Lebanon,normal,none,normal business activity
+2026-06-08 17:44:28,192.168.1.46,mohamad,upload_file,success,/download/db_backup.zip,Chrome Android,1715,Lebanon,normal,none,normal business activity
+2026-06-08 17:45:23,192.168.1.16,john,login,success,/login,Safari iPhone,644,Lebanon,normal,none,normal business activity
+2026-06-08 17:48:24,192.168.1.72,mohamad,download_file,success,/dashboard,Chrome Android,10522,Lebanon,normal,none,normal business activity
+2026-06-08 17:49:12,192.168.1.59,it.support,view_file,success,/login,Chrome Windows,3562,Lebanon,normal,none,normal business activity
+2026-06-08 17:50:02,192.168.1.32,maria,view_file,success,/api/v1/users,Chrome Android,3650,Lebanon,normal,none,normal business activity
+2026-06-08 17:50:16,192.168.1.63,nour,download_file,failed,/api/v1/users,Firefox Linux,10412,Lebanon,normal,none,normal business activity
+2026-06-08 17:54:35,192.168.1.15,ali,view_file,success,/files/report.pdf,Firefox Linux,3976,Lebanon,normal,none,normal business activity
+2026-06-08 17:56:42,192.168.1.54,john,logout,success,/download/db_backup.zip,Chrome Android,774,Lebanon,normal,none,normal business activity
+2026-06-08 17:57:19,192.168.1.13,maria,view_file,success,/files/report.pdf,Chrome Windows,4015,Lebanon,normal,none,normal business activity
