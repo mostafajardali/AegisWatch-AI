@@ -9,7 +9,7 @@ from pathlib import Path
 import pandas as pd
 import psycopg
 from dotenv import load_dotenv
-
+import hashlib
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 load_dotenv(ROOT_DIR / ".env")

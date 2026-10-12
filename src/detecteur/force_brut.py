@@ -38,7 +38,6 @@ def detect_brute_force(df: pd.DataFrame) -> list[Alert]:
         BRUTE_FORCE_WINDOW,
         closed="both"
         ).count()
-        print(cpt5min)
         #si le nombre d'essai(failed) plus grand de 5
         if (cpt5min >= BRUTE_FORCE_FAILED_ATTEMPTS_THRESHOLD).any():
             max_essais=int(cpt5min.max())
