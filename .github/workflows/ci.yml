@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Recuperer le code
-        uses: actions/checkout@v7
+        uses: actions/checkout@v7dnc 
 
       - name: Installer Python
         uses: actions/setup-python@v7
@@ -28,3 +28,7 @@ jobs:
       - name: Verifier la syntaxe Python
         run: |
           python -m compileall src dashboard
+
+      - name: Executer les tests Pytest
+        run: |
+          python -m pytest -v
