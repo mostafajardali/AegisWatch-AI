@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Recuperer le code
-        uses: actions/checkout@v7dnc 
+        uses: actions/checkout@v4 
 
       - name: Installer Python
         uses: actions/setup-python@v7
